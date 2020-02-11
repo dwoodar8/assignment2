@@ -1,7 +1,7 @@
 h1,
 h2 {
-    color: #4d2a7c;
-    font-family: cursive;
+    color: rgba(138, 43, 226, 0.91);
+    font-family:fantasy;
     font-weight: 100;
     font-size: 100
         
@@ -9,21 +9,41 @@ h2 {
         
 }
 
-
+p{
+   color: grey;
+    font-family: cursive;
+    font-weight:0;
+    font-size: 0
+    
+    
+    
+}
 
 body{
-    background-color: gold
+    background-color: #f0b623
 }
 
 main{
-  background-color: goldenrod
-    
+  background-color: #f0b623  
     
 }
 
+a:hover {
+    
+    color:#c5c0d0
+    
+}
+
+h1, p {
+    
+    color: beige
+}
 
 
+nav ul li a {
+    
+    color: beige
+}
 
-
-.somename{color: brown}
+.somename{color:rebeccapurple}
 .beep{color: blueviolet}
