@@ -30,13 +30,13 @@ p{
     
 }
 
-
+.pics img:hover{}
 
 body{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/kobe-header.jpg");
-/*    background-image: url("../images/kobe-header.jpg");*/
-    background-size: cover;
-    background-position: left;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/200126-kobe-bryant-cs-243p_0ac7168cb97081a12f675746a1da69d5.jpg");
+    background-size:contain;
+
+    background-position: center;
     min-height: 100vh;
 }
     
@@ -44,7 +44,7 @@ body{
 
 a:hover {
     
-    color:#c5c0d0
+    color:#e6d021
     
 }
 
@@ -80,12 +80,13 @@ nav ul li a {
     padding-bottom: 15px;
     padding-top: 15px;
     padding-left: 15px;
-    border-radius: 15px;
-    
-    
+    border-radius: 15px;  
 }
 
+nav ul li {text-shadow: 5px 5px blue;
 
+
+}
 
 
 .summary2{
