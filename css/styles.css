@@ -1,36 +1,21 @@
 html{
-    color: aqua;
+    
     box-sizing: border-box;
-    margin: 0;
-    
-    
+    margin: 0;      
 }
 
 
-
-
-
+#quote{color: gold}
+.beep{color: white}
 
 h1,
 h2 {
     color: rgba(138, 43, 226, 0.91);
     font-family:fantasy;
-    font-size: 2.0em;
-margin: 15px 15px 15px 15px
-    
-        
-    
-        
+    font-size: 1.5.0em;
+margin: 15px 15px 15px 15px       
 }
 
-p{
-   color: grey;
-    font-family: cursive;
-
-    
-}
-
-.pics img:hover{}
 
 body{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/200126-kobe-bryant-cs-243p_0ac7168cb97081a12f675746a1da69d5.jpg");
@@ -40,7 +25,7 @@ body{
     min-height: 100vh;
 }
     
-
+p{ color: gold}
 
 a:hover {
     
@@ -48,40 +33,6 @@ a:hover {
     
 }
 
-h1, p {
-    
-    color: beige;
-font-size: 1.2em; 
-    border-width: thick;
-    border-style: double;
-    border: 5px solid red;
-    padding-bottom: 15px;
-    padding-top: 15px;
-    padding-left: 15px;
-    border-radius: 15px;
-}
-
-
-nav ul li a {
-    
-    color: beige;
-}
-
-.somename{color:rebeccapurple}
-.beep{color: blueviolet}
-
-
-#summary2{
-    
-   font-size: 1.2em; 
-    border-width: thick;
-    border-style: double;
-    border: 5px solid red;
-    padding-bottom: 15px;
-    padding-top: 15px;
-    padding-left: 15px;
-    border-radius: 15px;  
-}
 
 nav ul li {text-shadow: 5px 5px blue;
 
@@ -94,14 +45,14 @@ nav ul li {text-shadow: 5px 5px blue;
    font-size: 1.2em; 
     border-width: thick;
     border-style: double;
-    border: 5px solid red;
+    border: 5px solid gold;
     padding-bottom: 15px;
     padding-top: 15px;
     padding-left: 15px;
     border-radius: 15px;
     
-    width: 250px;
-    height: 250px;
+    width: 500px;
+    height: 30px;
     margin-left: auto;
     margin-right: auto
     
